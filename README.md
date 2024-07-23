@@ -28,3 +28,8 @@ El Software al no ser tangible, necesita un medio material para poderse trabajar
 Es el cerebro de la computadora encargada de almacenar los datos y controlar la información de la computadora, procesa las señales y hace posible la computación. Entre sus componentes se destacan la memoria caché y los núcleos, en algunos casos puertos de memoria.
 •	¿Qué es la velocidad de la CPU, también conocida como velocidad del reloj?
 •	¿Cuál es la secuencia de pasos que ocurre, desde el momento en que presionas el botón de encendido de la computadora, hasta que se muestra el sistema operativo listo para funcionar? Describe todos los elementos involucrados y el paso a paso.
+
+
+
+
+##### FUENTES: https://concepto.de/componentes-de-una-computadora/
