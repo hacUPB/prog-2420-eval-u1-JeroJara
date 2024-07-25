@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZHlrD2sU)
 
-![MAPA MENTAL](https://www.canva.com/design/DAGLzfhIpeI/WOaKIYsa1V0bhHKUS6kSew/view?utm_content=DAGLzfhIpeI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![MAPA MENTAL](https://www.canva.com/design/DAGLzfhIpeI/uZ8EDnUqEyuNeogR3JJBPg/edit?utm_content=DAGLzfhIpeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 #  PARTES DE UN COMPUTADOR MODERNO
 
 ## Hardware
@@ -9,7 +10,7 @@
  Es el cerebro de la computadora que es responsable de realizar los cálculos y la comprensión de datos.
 
 
-####RAM (Memoria de Acceso Aleatorio):
+#### RAM (Memoria de Acceso Aleatorio):
  Es la memoria que almacena información, de manera temporal y rápida, para que la computadora la utilice en el momento. 
 
 #### Almacenamiento (HDD, SSD):
