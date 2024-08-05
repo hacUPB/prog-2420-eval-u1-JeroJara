@@ -122,3 +122,10 @@
 
 
 #### Módulo Codificación CPU: Envía los  datos en binario al módulo de acción de control.
+
+
+## CONCLUSIONES DE LA ACTIVIDAD: 
+#### 1. Aprender sobre la utilidad del sistema binario es necesario para comprender los conceptos más esenciales enla programación, ya que es en este sistema en el que se basan todos los componenetes informáticos contemporáneos, desde un transistor hasta el complejo sistema de sensores de una aeoronave.
+
+#### 2. Es importante conoer los procesos básicos realizados por una computadora para la transmisión de datos; pues facilita detectar y prevenir errores a la hora de programar, además de reconocner la relacion natural entre el hardware y el software.
+
