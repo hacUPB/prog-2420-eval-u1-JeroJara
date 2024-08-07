@@ -68,3 +68,26 @@ Inicio
 
 Fin
 ```
+### Problema 4: Determinar la distancia total recorrida por un vehículo con registros de velocidad y tiempo
+
+#### María tiene un registro de las velocidades a las que ha conducido su vehículo y el tiempo que ha mantenido cada velocidad. Quiere calcular la distancia total recorrida.
+```
+Inicio
+
+    Leer lista_velocidades
+    Leer lista_tiempos
+
+    Definir distancia_total = 0
+
+    Para i desde 0 hasta cantidad(lista_velocidades) - 1 hacer
+        velocidad_actual = lista_velocidades
+        tiempo_actual = lista_tiempos
+        
+        Multiplicar velocidad_actiual por tiempo_actual para obtener distancia
+        
+        sumar distancia_total a distancia e igualar a distancia_total
+
+    Imprimir distancia_total
+
+Fin
+```
