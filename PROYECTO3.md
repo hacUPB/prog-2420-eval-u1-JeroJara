@@ -7,22 +7,34 @@
  
  ```
  Inicio
+ leer dia_naci, mes_naci, año_naci, mes_actu, año_actu, dia_actu
 
-  
-  leer dia_naci
-  leer mes_naci
-  leer año_naci
-  leer mes_actu
-  leer año_actu
-  leer dia_actu
-      leer lectura dia_naci
-      leer lectura mes_naci
-      leer lectura año_naci
-      leer lectura mes_actu
-      leer lectura año_actu
-      leer lectura dia_actu
-      si lecturaaño_actu-lecturaaño_naci == 0 entonces:
-            
+// Primero se calculan los años:
+   años = año_actu - año_naci
+// ahora se mira si ya se han cumplido esos años, es decir, si el mes_naci y día_naci ya han pasado:
+      Si (mes_actu<mes_naci) o
+         (mes_actu == mes_naci Y dia_actu < dia_naci) Entonces
+         años == años - 1
+         imprimir "No has cumplido años."
+// Esta parte no la entendí: Cómo hago para hacer los 2 procesos en paralelo
+//lUego se calculan los meses:
+Si (mes_actu >= mes_naci) entoces
+     meses = mes_actu - mes_naci
+ FinSi
+
+//Calcular días
+si (dia_actu > dia_naci) entonces
+   dias = dia_actual - dia_naci
+Finsi
+
+si (dia_actu = dia_naci) Y (mes_actu = mes_naci) Y (año_actu = año_actual) entonces
+   imprimir "Feliz cumple"
+sino
+  imprimir "hoy no cumples"
+Fin si
+
+
+
       
  Fin
  ```
@@ -51,7 +63,7 @@ Inicio
     fin si
 
     si promedio < 3 entonces:
-    imprimir  "NO APROBASTE :c"
+       imprimir  "NO APROBASTE :c"
     fin si
 
 Fin
