@@ -91,3 +91,28 @@ Inicio
 
 Fin
 ```
+
+
+
+
+
+inicio 
+ leer horas
+  si numh > 10 entonces
+   costo = 2 *numh
+    si no 
+      si numh <= 2 entonces
+        costo = numh * 5
+          si no 
+             si  numh<=5 entonces 
+               costo = 10 + (numh - 2)*4 
+                 si numh<=10 entonces
+                   costo = 22 + (numh - 5) * 3
+                 FinSi
+             FinSi
+        FinSi
+     FinSi
+            imprimir "Debes cobrar", costo
+ Fin
+ 
+      
