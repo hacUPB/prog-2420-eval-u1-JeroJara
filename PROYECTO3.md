@@ -114,5 +114,44 @@ inicio
      FinSi
             imprimir "Debes cobrar", costo
  Fin
- 
+
+
+ ### TAREA: PSEUDOCODIGO QUE CALCULA EL VALOR DE LA CUOTA 
+```
+      Inicio
+        leer valorcompra
+        leer numcuotas
+        leer cuota
+        definir numcuotas = contador
+        definir interes= 0.15
+        si cuota = 1 entonces
+        ValorPagar = valorcompra/numcuotas
+         sino 
+            mientras cuota > 1 entonces
+            definir ValorPagar = 0
+            ValorPagar = ValorPagar + valorcompra
+
       
+      Fin
+```
+
+```
+      Inicio
+        leer valorcompra
+        leer numcuotas
+        leer cuotaAcalcular
+        definir interes= 0.15
+ /// la primera cuota no tiene intereses ///
+        si cuota = 1 entonces
+        ValorPagar = valorcompra/numcuotas
+ /// Se usa formula del interes compuesto ///
+         sino 
+            ValorPagar = (valorcompra *(1 + interes)  ^cuotaAcalcular)/numcuotas
+        Finsi
+
+        imprimir "el valor de la cuota número", cuotaAcalcular, "es de ", ValorPagar
+
+      Fin
+```
+
+
