@@ -122,7 +122,13 @@ inicio
         leer valorcompra
         leer numcuotas
         definir interes= 0.15
-        si cuota = 1 entonces
+        cuotabase= valorcompra/numcuotas
+        cuotainicial = cuotabase + (valorcompra * interes)
+        imprimir cuotainicial
+        mientras valorcompra > 0
+        valorcompra= valorcompra - cuotabase
+        cuotapagar = (valorcompra*interes) + (cuotabase*
+
         ValorPagar = valorcompra/numcuotas
          sino 
             mientras cuota > 1 entonces
