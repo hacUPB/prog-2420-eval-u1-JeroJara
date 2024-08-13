@@ -121,8 +121,6 @@ inicio
       Inicio
         leer valorcompra
         leer numcuotas
-        leer cuota
-        definir numcuotas = contador
         definir interes= 0.15
         si cuota = 1 entonces
         ValorPagar = valorcompra/numcuotas
