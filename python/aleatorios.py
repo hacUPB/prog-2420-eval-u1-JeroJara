@@ -17,7 +17,7 @@ print(aleatorioflotante)
 edades = []
 #2. Generar un numero aleatorio
 edad = randint(0,110)
-#3. Agregamos el número a la lista
+#3. Agregamos el umero a la llista
 edades.append(edad)
 print(edades)
 '''
