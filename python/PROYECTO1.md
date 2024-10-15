@@ -4,7 +4,7 @@
 
 
 =======
-![MAPA MENTAL](https://www.canva.com/design/DAGLzfhIpeI/uZ8EDnUqEyuNeogR3JJBPg/edit?utm_content=DAGLzfhIpeI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MAPA MENTAL](https://www.canva.com/design/DAGLzfhIpeI/WOaKIYsa1V0bhHKUS6kSew/view?utm_content=DAGLzfhIpeI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 #  PARTES DE UN COMPUTADOR MODERNO
 
