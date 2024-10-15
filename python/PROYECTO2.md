@@ -2,8 +2,9 @@
 
 ## Diagrama de Bloques
 ![ctrl + click para abrir la imagen de la primera parte del diagrama](<DIAGRAMA1.png>)
+![alt text](../DIAGRAMA1.png)
+![alt text](../DIAGRAMA2.png)
 
-![Segunda parte del diagrama (ctrl+click)](<DIAGRAMA2.png>)
 ## CASOS:
  ### Módulo de Sensores
 
